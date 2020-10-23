@@ -1,7 +1,7 @@
 # Museum Robbery 
 
 <p align="left">
-    <form action="https://github.com/pilot22/museum-robbery/star" style="display:inline;"><button style="background: none;color: inherit;border: none;"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pilot22/museum-robbery"></button></form>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pilot22/museum-robbery">
     <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/pilot22/museum-robbery/total">
     <img alt="GitHub" src="https://img.shields.io/github/license/pilot22/museum-robbery">
 </p>
