@@ -14,6 +14,7 @@ Museum Robbery is an Gmod addon that allows your players to create their own rob
 
 Download the addon by clicking [here](https://github.com/pilot22/museum-robbery/archive/master.zip).
 Extract the archive and drag'n'drop the ``museum-robbery`` folder in your server addons folder.
+Don't forget to subscribe to the [workshop addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1863354376) !
 
 ## Usage
 
@@ -31,6 +32,7 @@ Museum Robbery est un addon gmod qui permet à vos joueurs de créer leur propre
 
 Téléchargez l'addon en cliquant [ici](https://github.com/pilot22/museum-robbery/archive/master.zip).
 Décompressez l'archive et faites glisser le dossier ``museum-robbery`` dans votre dossier addons.
+N'oubliez pas de vous abonner au [content workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1863354376) !
 
 ## Usage
 
