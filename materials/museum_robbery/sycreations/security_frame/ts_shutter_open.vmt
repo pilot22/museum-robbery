@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture "museum_robbery/sycreations/security_frame/ts_shutter_open"
+	$envmaptint "[0.55 0.55 0.55]"
+	$envmap env_cubemap
+	$fresnelreflection 1
+	$translucent 1
+}

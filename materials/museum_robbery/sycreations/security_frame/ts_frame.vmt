@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	$basetexture	"museum_robbery/sycreations/security_frame/ts_frame_ao"
+	//$color2 "[ 1 .80 0.50 ]" 
+	$color2 "[ 0.5 0.39 0.18 ]" 
+	$bumpmap 		"museum_robbery/sycreations/security_frame/ts_frame_normalenv"
+	//$bumpscale .5
+	$envmap env_cubemap
+	$envmaptint "[ 0.8 0.5 0.25 ]" 
+	$normalmapalphaenvmapmask 1
+	$phong 1
+	//$fresnelreflection 15
+	//$selfillum 1
+}

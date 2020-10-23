@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	$basetexture "sycreations/laser/laser_albedo"
+	$color2 "[ 0.75 0.75 0.75]" 
+	$bumpmap "sycreations/laser/laser_normalenv"
+	$bumpscale .5
+	$envmap env_cubemap
+	$envmaptint 0.2
+	$normalmapalphaenvmapmask 1
+	$phong 1
+}

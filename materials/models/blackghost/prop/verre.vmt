@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/blackghost/prop/verre"
+	"$translucent" 1
+	$alpha 1
+	"$surfaceprop" "glass"
+	"$envmaptint" "[5 0 0]"
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+    "$baseTexture" "models/blackghost/prop/oeil"
+    "$bumpmap" "models/blackghost/prop/oeil_normal"
+    "$envmap" "env_cubemap"
+    "$bumpmap" "models/blackghost/prop/oeil"
+    "$normalmapalphaenvmapmask" "1"
+}
