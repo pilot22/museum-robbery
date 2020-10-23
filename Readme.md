@@ -21,7 +21,7 @@ You can start using the addon right after restart your server. Obviously you can
 
 ## Contributing
 
-Feel free to make pull requests to improve the addon ! Please, test your edits before :smile:
+Feel free to make pull requests to improve the addon ! Please, test your edits before :smile: 
 
 # <img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">
 
