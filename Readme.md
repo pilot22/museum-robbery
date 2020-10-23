@@ -4,6 +4,7 @@
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pilot22/museum-robbery">
     <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/pilot22/museum-robbery/total">
     <img alt="GitHub" src="https://img.shields.io/github/license/pilot22/museum-robbery">
+    <img alt="GitHub manifest version" src="https://img.shields.io/github/manifest-json/v/pilot22/museum-robbery">
 </p>
 
 # <img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22">
