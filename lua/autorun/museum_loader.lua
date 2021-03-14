@@ -1,24 +1,26 @@
 -- Don't touch any file or no support will be provided.
-mrobbery = mrobbery or {}
-mrobbery.version = "2.0.0"
-mrobbery.cache = {}
-mrobbery.cachetodownload = {}
-mrobbery.offers = mrobbery.offers or {}
-mrobbery.pgsecured = false
-mrobbery.lsenabled = false
-mrobbery.language = mrobbery.language or {}
-mrobbery.f = mrobbery.f or {}
-mrobbery.lib = mrobbery.lib or {}
-mrobbery.entities = mrobbery.entities or {}
-mrobbery.entities["laser"] = mrobbery.entities["laser"] or {}
-mrobbery.entities["paintings"] = mrobbery.entities["paintings"] or {}
-mrobbery.entities["cameras"] = mrobbery.entities["cameras"] or {}
-mrobbery.entities["alarms"] = mrobbery.entities["alarms"] or {}
+mrobbery = mrobbery or {
+    ["version"] = "2.0.0",
+    ["cache"] = {},
+    ["cachetodownload"] = {},
+    ["offers"] = {},
+    ["pgsecured"] = false,
+    ["lsenabled"] = false,
+    ["language"] = {},
+    ["f"] = {},
+    ["lib"] = {},
+    ["entities"] = {
+        ["laser"] = {},
+        ["paintings"] = {},
+        ["cameras"] = {},
+        ["alarms"] = {}.
+    },
+}
 
 function mrobbery.f.loadFile(strPath, boolInclude)
     local files, folders = file.Find(strPath .. "*", "LUA")
 
-    for _, v in pairs(files) do
+    for _, v in ipairs(files) do
         if boolInclude then
             include(strPath .. v)
         else
@@ -34,7 +36,7 @@ end
 function mrobbery.f.loadresources(fdir)
     local files, dirs = file.Find(fdir .. "*", "GAME")
 
-    for _, v in pairs(files) do
+    for _, v in ipairs(files) do
         resource.AddSingleFile(fdir .. v)
     end
 
@@ -46,7 +48,7 @@ end
 function mrobbery.lib.loadModule(path)
     local files, folders = file.Find(path .. "/*", "LUA")
 
-    for _, v in pairs(files) do
+    for _, v in ipairs(files) do
         if SERVER then
             if string.find(v, "cl_") or string.find(v, "sh_") then
                 AddCSLuaFile(path .. v)
@@ -62,7 +64,7 @@ function mrobbery.lib.loadModule(path)
         end
     end
 
-    for _, v in pairs(folders) do
+    for _, v in ipairs(folders) do
         mrobbery.lib.loadModule(path .. v .. "/")
     end
 end
