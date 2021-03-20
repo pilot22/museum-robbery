@@ -7,7 +7,13 @@
     <img alt="GitHub manifest version" src="https://img.shields.io/github/manifest-json/v/pilot22/museum-robbery">
 </p>
 
-# <img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">
+# Languages:
+<a href="https://github.com/pilot22/museum-robbery/blob/master/Readme.md">
+  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" alt="English" width="22">
+</a>
+<a href="https://github.com/pilot22/museum-robbery/blob/master/Readme_fr.md">
+  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" alt="Française" width="22">
+</a>
 
 Museum Robbery est un addon gmod qui permet à vos joueurs de créer leur propre musée braquable, en créant leur propre tableaux en utilisant imgur et les tableaux customisables.
 

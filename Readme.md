@@ -7,9 +7,13 @@
     <img alt="GitHub manifest version" src="https://img.shields.io/github/manifest-json/v/pilot22/museum-robbery">
 </p>
 
-Languages:
-# <img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22" (https://github.com/Blueberryy/museum-robbery/blob/master/Readme.md)>
-# <img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">
+# Languages:
+<a href="https://github.com/Blueberryy/museum-robbery/blob/master/Readme.md">
+  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" alt="English" width="22">
+</a>
+<a href="https://github.com/Blueberryy/museum-robbery/blob/master/Readme_fr.md">
+  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" alt="Française" width="22">
+</a>
 
 Museum Robbery is an Gmod addon that allows your players to create their own robbable museum by using imgur and the customisable paintings !
 
