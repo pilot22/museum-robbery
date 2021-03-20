@@ -6,19 +6,17 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/pilot22/museum-robbery">
     <img alt="GitHub manifest version" src="https://img.shields.io/github/manifest-json/v/pilot22/museum-robbery">
 </p>
+Museum Robbery is an Gmod addon that allows your players to create their own robbable museum by using imgur and the customisable paintings !
 
 # Languages:
-<a href="https://github.com/pilot22/museum-robbery/blob/master/Readme.md">
-  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" alt="English" width="22">
-</a>
+Click on one of the flag to see the Readme into another language version.
+
 <a href="https://github.com/pilot22/museum-robbery/blob/master/Readme_fr.md">
-  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" alt="Française" width="22">
+  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" alt="Française" width="32">
 </a>
 <a href="https://github.com/pilot22/museum-robbery/blob/master/Readme_ru.md">
-  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" alt="Русский" width="22">
+  <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" alt="Русский" width="32">
 </a>
-
-Museum Robbery is an Gmod addon that allows your players to create their own robbable museum by using imgur and the customisable paintings !
 
 ## Installation
 
