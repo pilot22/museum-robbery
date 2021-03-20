@@ -8,13 +8,13 @@
 </p>
 
 # Languages:
-<a href="https://github.com/Blueberryy/museum-robbery/blob/master/Readme.md">
+<a href="https://github.com/pilot22/museum-robbery/blob/master/Readme.md">
   <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" alt="English" width="22">
 </a>
-<a href="https://github.com/Blueberryy/museum-robbery/blob/master/Readme_fr.md">
+<a href="https://github.com/pilot22/museum-robbery/blob/master/Readme_fr.md">
   <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" alt="Française" width="22">
 </a>
-<a href="https://github.com/Blueberryy/museum-robbery/blob/master/Readme_ru.md">
+<a href="https://github.com/pilot22/museum-robbery/blob/master/Readme_ru.md">
   <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" alt="Русский" width="22">
 </a>
 
