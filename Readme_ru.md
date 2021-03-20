@@ -7,7 +7,7 @@
     <img alt="GitHub manifest version" src="https://img.shields.io/github/manifest-json/v/pilot22/museum-robbery">
 </p>
 
-# Languages:
+# Языки:
 <a href="https://github.com/Blueberryy/museum-robbery/blob/master/Readme.md">
   <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" alt="English" width="22">
 </a>
@@ -18,18 +18,18 @@
   <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" alt="Русский" width="22">
 </a>
 
-Museum Robbery is an Gmod addon that allows your players to create their own robbable museum by using imgur and the customisable paintings !
+Museum Robbery - это дополнение для Gmod'а, которое позволяет вашим игрокам создавать свои собственные музеи с помощью imgur и собственные картины !
 
-## Installation
+## Установка
 
-Download the addon by clicking [here](https://github.com/pilot22/museum-robbery/archive/master.zip).
-Extract the archive and drag'n'drop the ``museum-robbery`` folder in your server addons folder.
-Don't forget to subscribe to the [workshop addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1863354376) !
+Загрузите дополнение, нажав [сюда](https://github.com/pilot22/museum-robbery/archive/master.zip).
+Извлеките архив и перетащите ``museum-robbery`` в папку addons вашего сервера.
+Не забудьте подписаться на [дополнение в мастерской](https://steamcommunity.com/sharedfiles/filedetails/?id=1863354376) !
 
-## Usage
+## Использование
 
-You can start using the addon right after restart your server. Obviously you can configure the addon with using the in-game configuration by using the ``!mrconfig``command in the chat.
+Вы можете начать использовать дополнение сразу после перезагрузки сервера. Очевидно, что вы можете настроить дополнение, используя внутриигровую конфигурацию, с помощью команды ``!mrconfig``в чат.
 
-## Contributing
+## Вклад
 
-Feel free to make pull requests to improve the addon ! Please, test your edits before :smile: 
+Не стесняйтесь делать pull request'ы для улучшения дополнения ! Пожалуйста, протестируйте ваши правки их публикацией :smile: 
