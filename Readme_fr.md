@@ -28,6 +28,6 @@ N'oubliez pas de vous abonner au [content workshop](https://steamcommunity.com/s
 
 Vous pouvez commencer à utiliser l'addon tout de suite après avoir redémarré le serveur. Évidemment vous pouvez configurer l'addon en rentrant la commande ``!mrconfig`` dans le chat.
 
-## Contributing
+## Contributeurs
 
 N'hésitez pas a faire des pull requests, cela permettra d'améliorer l'addon, je vous en remercie ! Cependant, testez vos changements avant ! :wink:
