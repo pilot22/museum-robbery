@@ -6,10 +6,10 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/pilot22/museum-robbery">
     <img alt="GitHub manifest version" src="https://img.shields.io/github/manifest-json/v/pilot22/museum-robbery">
 </p>
-Museum Robbery - это дополнение для Gmod'а, которое позволяет вашим игрокам создавать свои собственные музеи с помощью imgur и собственные картины !
+Museum Robbery - это дополнение для Gmod'а, которое позволяет вашим игрокам создавать свои собственные музеи с помощью imgur для создания собственных картин !
 
 # Языки:
-[Please change here to translate the english sentance.]
+Нажмите на один из флажков, чтобы просмотреть Readme на другой языковой версии.
 
 <a href="https://github.com/pilot22/museum-robbery/blob/master/Readme.md">
   <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" alt="English" width="32">
