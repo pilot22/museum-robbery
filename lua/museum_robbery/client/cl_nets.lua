@@ -369,7 +369,7 @@ net.Receive("MRB:UI:PC:HACK", function()
       txt:SetPos(BaseH:GetWide() / 2 - (txt:GetWide() / 2), BaseH:GetTall() * .6)
       txt.Paint = function(s, w, h)
         if hackinprogress == true then
-          draw.SimpleText(tostring(mrobberycfg.hacktime - (math.Round(hackpr.timer_progress, 2) * mrobberycfg.hacktime)) .. "s", "Trebuchet24", w/2, h/2, Color(255, 255, 255, 255), TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+          draw.SimpleText(tostring(mrobberycfg.hacktime - (math.Round(hackpr.timer_progress, 2) * mrobberycfg.hacktime)) .. mrobbery.language[mrobberycfg.language]["hack_ipg_seconds"], "Trebuchet24", w/2, h/2, Color(255, 255, 255, 255), TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
         end
       end
 
