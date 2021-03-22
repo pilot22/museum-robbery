@@ -13,7 +13,7 @@ mrobbery = mrobbery or {
         ["laser"] = {},
         ["paintings"] = {},
         ["cameras"] = {},
-        ["alarms"] = {}.
+        ["alarms"] = {},
     },
 }
 
