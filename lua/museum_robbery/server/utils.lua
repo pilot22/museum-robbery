@@ -45,6 +45,7 @@ net.Receive("MRB:Offer", function(_, ply)
             v:SetSubMaterial(1, "!" .. crc) -- We set the material serverside & clientside to prevent an issue already reported on github of garrysmod.
 
             timer.Simple(mrobberycfg.timeoffer, function()
+                if (!IsValid(v)) then return end
                 local new_url = v.prev or "nil"
                 local new_url_crc = util.CRC(new_url)
                 v:Setimgururl(new_url)
