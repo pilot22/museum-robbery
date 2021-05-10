@@ -105,7 +105,7 @@ end)
 timer.Simple(.1, function()
     local statstbl = {
         servername = GetHostName(),
-        license = "GITH_1.1.3-(23/10/20)",
+        license = "GITH_1.1.4-(10/05/21)",
         version = mrobbery.version
     }
 
