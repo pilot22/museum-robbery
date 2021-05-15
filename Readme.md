@@ -1,3 +1,4 @@
+# This addon has been discontinued and is no longer supported. 
 # Museum Robbery 
 
 <p align="left">
